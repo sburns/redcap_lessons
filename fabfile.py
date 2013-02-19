@@ -13,7 +13,7 @@ def gen():
 def loop(pause=2):
     while(True):
         gen()
-        sleep(pause)
+        sleep(int(pause))
 
 
 def deploy():
