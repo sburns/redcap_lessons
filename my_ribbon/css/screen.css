@@ -47,7 +47,7 @@ body {
 .slide {
   width: 1024px;
   height: 768px;
-  background: #fefbfb url(../images/ribbon.svg) 865px 0 no-repeat;
+  background: #fbf4f4 url(../images/ribbon.svg) 865px 0 no-repeat;
   color: #000; }
   .slide:after {
     position: absolute;

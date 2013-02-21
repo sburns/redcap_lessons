@@ -2,11 +2,12 @@
 
 ## Scott Burns
 
-Sr. Research Imaging Specialist
-
-Education and Brain Research Lab, Kennedy Center
-
 `scott.s.burns@vanderbilt.edu`
+
+This talk can be found at:
+
+- Source: `github.com/sburns/redcap_lessons`)
+- Current Version: `ebrl.accre.vanderbilt.edu/static/talks/redcap_lessons`
 
 ## Presenter Notes
 
@@ -44,10 +45,10 @@ Notes
 
 ---
 
-# Goals For This Talk
+# When you leave
 
-- REDCap Terminology
 - What REDCap **is** and **is not**
+- REDCap Terminology
 - Why you should move any data you care about to REDCap
 - A brief taste on some of the *fancier* REDCap features
 
@@ -59,14 +60,23 @@ Notes
 
 ---
 
-# Web-Based Database Application
+# Web-Based Database
 
+Access from any computing device that has a web browser
 
+Two-dimensional table of `records` (rows) and `field` (columns)
+
+On-the-fly table modifications through a web interface
+
+Concurrent create/read/update/delete actions across users
 
 ---
 
 # Safe for PHI Storage
 
+People paid to care about computer security have vetted the application
+
+Spreadsheets of PHI on your laptop == **bad**
 
 ---
 
@@ -75,6 +85,16 @@ Notes
 <img alt="To the cloud" src="http://rack.0.mshcdn.com/media/ZgkyMDEyLzEyLzA0L2YzL2FwcGxlaGFsdHNpLmFZZC5qcGcKcAl0aHVtYgk5NTB4NTM0IwplCWpwZw/7175c0b6/fd5/apple-halts-icloud-push-email-in-germany-due-to-motorola-lawsuit-ffdfcd1232.jpg" height="250">
 
 **Whatever that means**
+
+---
+
+# Your data lives in the cloud
+
+<img alt="To the cloud" src="http://rack.0.mshcdn.com/media/ZgkyMDEyLzEyLzA0L2YzL2FwcGxlaGFsdHNpLmFZZC5qcGcKcAl0aHVtYgk5NTB4NTM0IwplCWpwZw/7175c0b6/fd5/apple-halts-icloud-push-email-in-germany-due-to-motorola-lawsuit-ffdfcd1232.jpg" height="250">
+
+- Professional administration
+- Professional backups
+- High Availability
 
 ---
 

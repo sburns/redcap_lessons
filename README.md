@@ -19,3 +19,7 @@ To rebuild `screen.css` from `screen.scss`:
 To rebuild the presentation every little while: (I couldn't get watchdog to work):
 
 `$ fab loop # loop:pause=X`
+
+## Current Version
+
+A up-to-date version of this talk can be found [here](http://ebrl.accre.vanderbilt.edu/static/talks/redcap_lessons/index.html)
