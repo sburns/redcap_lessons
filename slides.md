@@ -2,7 +2,7 @@
 
 ## Scott Burns
 
-`scott.s.burns@vanderbilt.edu`
+`scott.s.burns@gmail.com`
 
 This talk can be found at:
 
